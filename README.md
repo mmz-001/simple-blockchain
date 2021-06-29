@@ -1,2 +1,6 @@
-# simple-blockchain
-A simple Blockchain implementation in python
+# Simple Blockchain
+A simple Blockchain implementation in Python.
+
+## Contributing
+Feel free to contribute to this project
+
